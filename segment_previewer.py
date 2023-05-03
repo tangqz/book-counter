@@ -1,4 +1,5 @@
 #https://github.com/facebookresearch/segment-anything/blob/main/notebooks/automatic_mask_generator_example.ipynb
+#一个分割预览器，用于调整SAM分割器参数.目前尚未完成环境调试.
 import numpy as np
 import torch
 import matplotlib.pyplot as plt
