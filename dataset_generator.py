@@ -1,4 +1,7 @@
 '''
+
+【此文件用于生成数据集。在推测时，也使用此文件进行图像分割】
+
 使用segment anything的方法，对一个文件夹内的所有图片进行分割，将每个分块的图片保存到一个文件夹内
 使用方法：python3 segment.py -i input_dir -o output_dir
 input_dir:输入文件夹，包含所有待分割的图片
